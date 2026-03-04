@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
     height: 120,
     borderRadius: 60,
     borderWidth: 3,
-    borderColor: '#c77dff',
+    borderColor: '#0000FF',
     marginBottom: 16,
   },
   link_extras: {
